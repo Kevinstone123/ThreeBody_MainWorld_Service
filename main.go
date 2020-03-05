@@ -1,3 +1,1 @@
-fmt.Print("master")
-fmt.Print("111111")
-fmt.Print("222222")
+fmt.Print("one")
